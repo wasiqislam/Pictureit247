@@ -1,5 +1,4 @@
 
-<!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
@@ -27,17 +26,17 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 This is a simple Android mobile app written in Kotlin. It uses third party image picture gallery API to list the pictures by authors name. Although the design inspiration was to add more functionalities such as likes, comment and shares. Please staty tune more will come later.
 
 The project was built with the view in mind that it use the best engineering practices as well as demonstrate the following values:
 
  • performance
+
  • readability
+
  • maintainability
  • testability
  • scalability
@@ -48,17 +47,17 @@ The project was built with the view in mind that it use the best engineering pra
 ### Built With
 
 This project uses following libraries.
+
 * [Android lang: Kotlin](https://kotlinlang.org/)
-* [RxJava](https://github.com/ReactiveX/RxAndroid)
-* [Moshil](https://github.com/square/moshi)
-* [Ratrofit](https://square.github.io/retrofit/)
-* [Glide](https://github.com/bumptech/glide)
-* [mokito](https://github.com/mockito/mockito-kotlin)
-* [expresso]
+    * [RxJava](https://github.com/ReactiveX/RxAndroid)
+    * [Moshil](https://github.com/square/moshi)
+    * [Ratrofit](https://square.github.io/retrofit/)
+    * [Glide](https://github.com/bumptech/glide)
+    * [mokito](https://github.com/mockito/mockito-kotlin)
+    * [expresso]
 
 
 
-<!-- GETTING STARTED -->
 ## Getting Started
 
 
@@ -80,12 +79,10 @@ Also, please create an emulator with minSdkVersion 24.
 
 
 
-<!-- ROADMAP -->
 ## Roadmap
 
 More coming soon...
 
-<!-- CONTRIBUTING -->
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -98,19 +95,16 @@ Contributions are what make the open source community such an amazing place to b
 
 
 
-<!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
-<!-- CONTACT -->
 ## Contact
 
 Your Name - [Wasiq Islam]
 
-<!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [Android lang: Kotlin](https://kotlinlang.org/)
   * [RxJava](https://github.com/ReactiveX/RxAndroid)
