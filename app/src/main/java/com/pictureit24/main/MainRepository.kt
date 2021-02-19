@@ -9,16 +9,6 @@ import io.reactivex.rxjava3.core.Observable
 //open due testing mock
 open class MainRepository(private val remoteService: RemoteService.Endpoints) {
 
-//    fun getListOrRequest(): Observable<List<MainItem>>{
-//
-//        return if(localCache!=null){
-//            localCache as Observable<List<MainItem>>
-//        }else{
-//            getList()
-//        }
-//    }
-//
-//    private var localCache: Observable<List<MainItem>>? = null
 
      fun getList(): Observable<List<MainItem>> {
         return ImageRequest(remoteService)
@@ -27,10 +17,5 @@ open class MainRepository(private val remoteService: RemoteService.Endpoints) {
 
 
     }
-
-//    private fun cacheData(it: List<MainItem>): List<MainItem> {
-//        localCache = Observable.just(it)
-//        return it
-//    }
 
 }

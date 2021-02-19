@@ -13,7 +13,6 @@ object RemoteService {
 
     private const val BASE_URL = "https://picsum.photos/"
 
-
     private val moshi = Moshi.Builder()
         .add(KotlinJsonAdapterFactory())
         .build()
@@ -30,8 +29,6 @@ object RemoteService {
     }
 
     interface Endpoints{
-
-        //        @GET("realestate")
         @GET("v2/list?page=2&limit=30000")
         fun getImages() : Observable<List<MainItem>>
 
