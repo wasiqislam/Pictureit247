@@ -29,30 +29,4 @@
     <dimen name="small_card_question_icon_width">48dp</dimen>
     <dimen name="small_card_question_icon_height">48dp</dimen>
 
-
-
-    <dimen name="my_feed_learn_block_width">222dp</dimen>
-    <dimen name="my_feed_learn_block_height">85dp</dimen>
-    <dimen name="my_feed_learn_block_elevation">@dimen/default_card_elevation</dimen>
-    <dimen name="my_feed_learn_block_radius">@dimen/default_card_corner_radius</dimen>
-
-    <dimen name="question_start_margin">24dp</dimen>
-    <dimen name="question_end_margin">8dp</dimen>
-    <dimen name="question_top_title_margin">30dp</dimen>
-    <dimen name="question_radio_width">24dp</dimen>
-    <dimen name="question_radio_height">24dp</dimen>
-    <dimen name="question_answer_init_top_margin">30dp</dimen>
-    <dimen name="question_answer_top_margin">24dp</dimen>
-    <dimen name="question_button_width">200dp</dimen>
-    <dimen name="question_button_height">36dp</dimen>
-
-    <dimen name="question_alert_dialog_min_width">0dp</dimen>
-
-    <!-- create account -->
-    <dimen name="register_side_margin">16dp</dimen>
-    <dimen name="register_side_margin_large">24dp</dimen>
-    <dimen name="register_top_margin_extra_small">4dp</dimen>
-    <dimen name="register_top_margin_small">8dp</dimen>
-    <dimen name="register_top_margin_medium">16dp</dimen>
-    <dimen name="register_top_margin_large">24dp</dimen>
 </resources>
